@@ -35,8 +35,6 @@ Segna-Gol utilizza due sensori ultrasonici HC-SR04 posizionati sulla struttura d
 | Arduino UNO | 1 | |
 | HC-SR04 | 2 | Sensori ultrasonici |
 | Striscia WS2812B | 1 | 100 LED |
-| Resistenza 470Ω | 1 | Protezione data line LED |
-| Condensatore 1000μF | 1 | Stabilizzazione alimentazione LED |
 | Alimentatore 5V | 1 | ≥3A per 100 LED a piena luminosità |
 
 ### Schema collegamenti
