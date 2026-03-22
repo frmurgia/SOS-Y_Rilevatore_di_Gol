@@ -5,6 +5,8 @@ Sistema automatico di rilevamento gol per porte da calcetto, con animazioni LED 
 ![Arduino](https://img.shields.io/badge/Arduino-UNO-00979D?logo=arduino&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+![Segna-Gol](images/foto_progetto.jpg)
+
 ---
 
 ## Descrizione
